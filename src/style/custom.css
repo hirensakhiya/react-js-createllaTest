@@ -1,0 +1,22 @@
+.infodiv {
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    box-shadow: 1px 3px 1px #9E9E9E;
+    padding:10px;
+    text-align: left !important;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+
+ .advertisediv{
+   margin-bottom: 20px;
+ }
+
+ .loader{
+  text-align: center;
+ }
+  .flextdiv{
+    display: flex;
+    float: left;
+  }
+
